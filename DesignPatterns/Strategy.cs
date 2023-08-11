@@ -39,6 +39,8 @@
 /*
  
 // in the main program
+// use simple factory to use these strategies
+
 var context = new StrategyContext();
 
 // Use the strategy A
